@@ -43,3 +43,8 @@ button {
     cursor: pointer;
     background-color: inherit;
 }
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
